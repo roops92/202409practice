@@ -1,17 +1,21 @@
 .square {
     background: #fff;
     border: 1px solid #999;
-    width: 25px;
-    height: 25px;
+    width: 50px;
+    height: 50px;
     float: left;
   }
 
-  body{
+  /* body{
     background-color: #fff;
-  }
+  } */
   
-  .board-row:after {
+  /* .board-row:after {
     clear: both;
     content: '';
-    display: table;
+    display: table; 
+  } */
+
+  a {
+    margin-top: 50px;
   }
